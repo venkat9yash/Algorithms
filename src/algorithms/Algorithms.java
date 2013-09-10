@@ -16,6 +16,7 @@ public class Algorithms
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Checking it out");
         System.out.println("Welcome to Git Hub");
 	System.out.println("You are a idiot");   
  }
