@@ -8,12 +8,14 @@ package algorithms;
  *
  * @author gqzhang
  */
-public class Algorithms {
+public class Algorithms 
+{
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Welcome to Git Hub");
     }
 }
